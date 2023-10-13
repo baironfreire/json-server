@@ -2,35 +2,115 @@
   "students": [
     {
       "id": 1,
-      "name": "Bairon"
+      "name": "Bairon",
+      "qualifications": [
+        {
+          "id": 1,
+          "name": "Conocimientos informáticos."
+        },
+        {
+          "id": 2,
+          "name": "Trabajo en equipo"
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "Mariana"
+      "name": "Mariana",
+      "qualifications": [
+        {
+          "id": 1,
+          "name": "Conocimientos informáticos."
+        },
+        {
+          "id": 2,
+          "name": "Trabajo en equipo"
+        }
+      ]
     },
     {
       "id": 3,
-      "name": "Daniel"
+      "name": "Daniel",
+      "qualifications": [
+        {
+          "id": 1,
+          "name": "Conocimientos informáticos."
+        },
+        {
+          "id": 2,
+          "name": "Trabajo en equipo"
+        }
+      ]
     },
     {
       "id": 4,
-      "name": "Segundo"
+      "name": "Segundo",
+      "qualifications": [
+        {
+          "id": 1,
+          "name": "Conocimientos informáticos."
+        },
+        {
+          "id": 2,
+          "name": "Trabajo en equipo"
+        }
+      ]
     },
     {
       "id": 5,
-      "name": "Yolima"
+      "name": "Yolima",
+      "qualifications": [
+        {
+          "id": 1,
+          "name": "Conocimientos informáticos."
+        },
+        {
+          "id": 2,
+          "name": "Trabajo en equipo"
+        }
+      ]
     },
     {
       "id": 6,
-      "name": "Rommario"
+      "name": "Rommario",
+      "qualifications": [
+        {
+          "id": 1,
+          "name": "Conocimientos informáticos."
+        },
+        {
+          "id": 2,
+          "name": "Trabajo en equipo"
+        }
+      ]
     },
     {
       "id": 7,
-      "name": "Vannesa"
+      "name": "Vannesa",
+      "qualifications": [
+        {
+          "id": 1,
+          "name": "Conocimientos informáticos."
+        },
+        {
+          "id": 2,
+          "name": "Trabajo en equipo"
+        }
+      ]
     },
     {
       "id": 8,
-      "name": "Maikel"
+      "name": "Maikel",
+      "qualifications": [
+        {
+          "id": 1,
+          "name": "Conocimientos informáticos."
+        },
+        {
+          "id": 2,
+          "name": "Trabajo en equipo"
+        }
+      ]
     }
   ]
 }
