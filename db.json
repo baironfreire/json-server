@@ -3,6 +3,8 @@
     {
       "id": 1,
       "name": "Bairon",
+      "age": 32,
+      "address": "Cra 28B2 72F - 146 Comuneros 2",
       "qualifications": [
         {
           "id": 1,
@@ -17,6 +19,8 @@
     {
       "id": 2,
       "name": "Mariana",
+      "age": 5,
+      "address": "Cra 28 B1 75 123",
       "qualifications": [
         {
           "id": 1,
@@ -31,6 +35,8 @@
     {
       "id": 3,
       "name": "Daniel",
+      "age": 13,
+      "address": "Cra 28B2 72F 146",
       "qualifications": [
         {
           "id": 1,
@@ -45,6 +51,8 @@
     {
       "id": 4,
       "name": "Segundo",
+      "age": 60,
+      "address": "Cra 28B2 72F 146",
       "qualifications": [
         {
           "id": 1,
@@ -59,6 +67,8 @@
     {
       "id": 5,
       "name": "Yolima",
+      "age": 53,
+      "address": "Cra 28B2 72F 146",
       "qualifications": [
         {
           "id": 1,
@@ -73,6 +83,8 @@
     {
       "id": 6,
       "name": "Rommario",
+      "age": 13,
+      "address": "Cra 28B2 72F 146",
       "qualifications": [
         {
           "id": 1,
@@ -87,6 +99,8 @@
     {
       "id": 7,
       "name": "Vannesa",
+      "age": 38,
+      "address": "Cra 28B2 72F 146",
       "qualifications": [
         {
           "id": 1,
@@ -101,6 +115,8 @@
     {
       "id": 8,
       "name": "Maikel",
+      "age": 8,
+      "address": "Cra 28B2 72F 146",
       "qualifications": [
         {
           "id": 1,
